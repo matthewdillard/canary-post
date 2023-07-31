@@ -1,13 +1,13 @@
-@import url(../canary-post/assets/canarypost.woff);
-@import url(../canary-post/assets/canarypost.woff2);
-@import url(../canary-post/assets/canarypost.ttf);
+@import url(../canary-post/assets/fonts/canarypost.woff);
+@import url(../canary-post/assets/fonts/canarypost.woff2);
+@import url(../canary-post/assets/fonts/canarypost.ttf);
 
 /* Fonts */
 @font-face {
   font-family: "Canary Post";
-  src: url('../canary-post/assets/canarypost.ttf') format('truetype'),
-       url('../canary-post/assets/canarypost.woff') format('woff'),
-       url('../canary-post/assets/canarypost.woff2') format('woff2');
+  src: url('../canary-post/assets/fonts/canarypost.ttf') format('truetype'),
+       url('../canary-post/assets/fonts/canarypost.woff') format('woff'),
+       url('../canary-post/assets/fonts/canarypost.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
@@ -34,7 +34,7 @@ body {
   max-width: 100%;
   max-height: 100%;
 
-  background-image: url('../canary-post/assets/bgfons.com - paper_grid_PNG5434.jpg');
+  background-image: url('../canary-post/assets/grid-paper.jpg');
   
   box-sizing: border-box;
   display: flex;
