@@ -2,7 +2,8 @@
 
 @font-face {
   font-family: "Canary Post";
-  src: url('assets/canarypost.ttf') format('truetype');
+  src: url('assets/canarypost.ttf') format('truetype'), 
+    url('assets/canarypost.woff') format('woff'),;
 }
 
 body {
