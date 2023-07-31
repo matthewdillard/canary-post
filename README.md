@@ -3,4 +3,4 @@ A project resulting from the sticky notes I record ideas and thoughts down on, I
 
 This repository serves as a version history for the font, as well as the source for the widget's code. 
 
-You can make your own sticky notes [here][https://matthewdillard.github.io/canary-post/)https://matthewdillard.github.io/canary-post/].
+You can make your own sticky notes [here](https://matthewdillard.github.io/canary-post/)
