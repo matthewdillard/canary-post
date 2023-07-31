@@ -1,4 +1,6 @@
-<style>
+@import url(../canary-post/assets/canarypost.woff);
+@import url(../canary-post/assets/canarypost.woff2);
+@import url(../canary-post/assets/canarypost.ttf);
 
 @font-face {
   font-family: "Canary Post";
@@ -67,5 +69,3 @@ body {
   filter: blur(16px);
   z-index: -1;
 }
-
-</style>
