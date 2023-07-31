@@ -28,6 +28,7 @@ body {
 
 .sticky-wrapper {
   height: 100%;
+  max-width: 95vw;
   overflow: visible;
   display: flex;
   align-items: center;
