@@ -2,9 +2,11 @@
 
 @font-face {
   font-family: "Canary Post";
-  src: url('./assets/canarypost.ttf') format('truetype'), 
-    url('./assets/canarypost.woff') format('woff'),
-    url('./assets/canarypost.woff2') format('woff2');
+  src: url('../canary-post/assets/canarypost.ttf') format('truetype'), 
+    url('../canary-post/assets/canarypost.woff') format('woff'),
+    url('../canary-post/assets/canarypost.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
 }
 
 body {
