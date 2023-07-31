@@ -1,3 +1,5 @@
+<style>
+
 @font-face {
   font-family: "Canary Post";
   src: url('assets/canarypost.ttf') format('truetype');
@@ -61,3 +63,5 @@ body {
   filter: blur(16px);
   z-index: -1;
 }
+
+</style>
