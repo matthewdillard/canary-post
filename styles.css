@@ -2,7 +2,7 @@
 @import url(../canary-post/assets/fonts/canarypost.woff2);
 @import url(../canary-post/assets/fonts/canarypost.ttf);
 
-/* Fonts */
+/* FONT */
 @font-face {
   font-family: "Canary Post";
   src: url('../canary-post/assets/fonts/canarypost.ttf') format('truetype'),
